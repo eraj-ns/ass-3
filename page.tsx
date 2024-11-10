@@ -18,7 +18,7 @@ export default function Home() {
         This is Home Page. */}
       </div>
       <div className="image">
-      <Image src={pic} alt="pic" height={250} width={250} />
+      <Image src={pic} alt="pic" height={150} width={350} />
       </div>
    </div>
   );
